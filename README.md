@@ -2,10 +2,15 @@
 
 This repository hosts the joint JOSS submission of the [AutoRA](https://github.com/AutoResearch/autora) framework.
 
-The AutoRA framework consists of the following core packages with minimal dependencies:
+**CORE PACKAGES** (required dependency)
+
+The AutoRA framework consists of core packages with minimal dependencies.
+
 - [autora](https://github.com/AutoResearch/autora): Main repository that serves to integrate all subpackages and documentation of AutoRA.
 - [autora-core](https://github.com/AutoResearch/autora): AutoRA workflow mechanics.
 - [autora-synthetic](https://github.com/AutoResearch/autora): Synthetic models for benchmarking in AutoRA.
+
+**OPTIONAL PACKAGES** (optional dependency):
 
 In addition, the AutoRA framework provides vetted optional dependencies for workflow components, including theorists (for automated model discovery), experimentalists (for automated expeirmental design), and experiment runners (for automated data collection).
 
