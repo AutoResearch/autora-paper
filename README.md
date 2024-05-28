@@ -33,5 +33,6 @@ Experiment Runner Components:
 - [autora[experiment-runner-firebase-prolific]](https://github.com/AutoResearch/autora-experiment-runner-firebase-prolific): Automated data collection through serving an experiment on [Firebase](https://firebase.google.com/) and recruiting participants with [Prolific](https://www.prolific.com/).
 - [autora[experiment-runner-experimentation-manager-firebase]](https://github.com/AutoResearch/autora-experiment-runner-experimentation-manager-firebase): Automated data collection through serving an experiment on Firebase.
 - [autora[experiment-runner-recruitment-manager-prolific]](https://github.com/AutoResearch/autora-experiment-runner-recruitment-manager-prolific): Automated participant recruitment with Prolific.
+- [autora[experiment-runner-synthetic-abstract-equation]](https://github.com/AutoResearch/autora-synthetic-abstract-equation): Automated data generation based on mathematical equations.
 
 
