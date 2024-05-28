@@ -6,7 +6,7 @@ This repository hosts the joint JOSS submission of the [AutoRA](https://github.c
 
 The AutoRA framework consists of core packages with minimal dependencies.
 
-- [autora](https://github.com/AutoResearch/autora): Main repository that serves to integrate all subpackages and documentation of AutoRA.
+- [autora](https://github.com/AutoResearch/autora): Main repository that hosts the documentation of autora across all vetted subpackages and serves as the main package.
 - [autora-core](https://github.com/AutoResearch/autora): AutoRA workflow mechanics.
 - [autora-synthetic](https://github.com/AutoResearch/autora): Synthetic models for benchmarking in AutoRA.
 
