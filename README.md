@@ -12,7 +12,7 @@ The AutoRA framework consists of core packages with minimal dependencies.
 
 **OPTIONAL PACKAGES** (optional dependency):
 
-In addition, the AutoRA framework provides vetted optional dependencies for workflow components, including theorists (for automated model discovery), experimentalists (for automated expeirmental design), and experiment runners (for automated data collection).
+In addition, the AutoRA framework provides vetted optional dependencies for workflow components, including theorists (for automating model discovery), experimentalists (for automating experimental design), and experiment runners (for automating data collection).
 
 Theorist Components:
 - [autora[theorist-darts]](https://github.com/AutoResearch/autora-theorist-darts): Automated model discovery with Differentiable Architecture Search. 
