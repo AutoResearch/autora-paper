@@ -23,7 +23,7 @@ Experimentalist Components:
 - [autora[experimentalist-falsification]](https://github.com/AutoResearch/autora-experimentalist-falsification): Automated experimental design based on predicted model falsification.
 - [autora[experimentalist-inequality]](https://github.com/AutoResearch/autora-experimentalist-inequality): Automated experimental design based on a pairwise distance metric.
 - [autora[experimentalist-leverage]](https://github.com/AutoResearch/autora-experimentalist-leverage): Automated experimental design based on the leverage of data points on model predictions.
-- [autora[experimentalist-mixture]](https://github.com/AutoResearch/autora-experimentalist-mixture): Automated experimental design based on mixture of  experimentalists.
+- [autora[experimentalist-mixture]](https://github.com/blinodelka/mixture_experimental_strategies): Automated experimental design based on mixture of  experimentalists.
 - [autora[experimentalist-nearest-value]](https://github.com/AutoResearch/autora-experimentalist-nearest-value): Automated experimental design based on distance to existing pool of experiment conditions.
 - [autora[experimentalist-novelty]](https://github.com/AutoResearch/autora-experimentalist-novelty): Automated experimental design based on experiment novelty.
 - [autora[experimentalist-model-disagreement]](https://github.com/AutoResearch/autora-experimentalist-model-disagreement): Automated experimental design based on model disagreement.
