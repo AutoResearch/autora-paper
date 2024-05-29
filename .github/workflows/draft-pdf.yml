@@ -1,6 +1,6 @@
 name: Draft PDF
 on:
-  pull_request:
+  [push]
 
 jobs:
   paper:
