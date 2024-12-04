@@ -18,7 +18,7 @@ authors:
     affiliation: 1
   - name: Joshua T. S. Hewson
     affiliation: 1
-  - name: Star Li
+  - name: Sida Li
     orcid: 0009-0009-7849-1923
     affiliation: 3
   - name: Ioana Marinescu
