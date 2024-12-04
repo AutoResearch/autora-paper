@@ -32,7 +32,7 @@ authors:
   - name: Younes Strittmatter
     orcid: 0000-0002-3414-2838
     equal-contrib: true
-    affiliation: 1
+    affiliation: "1, 4"
   - name: John G. Holland
     orcid: 0000-0001-6845-8657
     equal-contrib: true
