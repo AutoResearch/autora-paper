@@ -27,6 +27,7 @@ authors:
     orcid: 0000-0001-5264-0489
     affiliation: 5
   - name: George T. Dang
+    orcid: 0009-0008-1566-8245
     affiliation: 1
   - name: Younes Strittmatter
     orcid: 0000-0002-3414-2838
